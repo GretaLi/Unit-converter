@@ -6,7 +6,7 @@ This is my solo project for Unit Converter from [Scrimba](https://scrimba.com/le
 
 The challenge is to generate all conversions when the user clicks the button.
 
-Check out my code [scrim Unit Converter](https://scrimba.com/scrim/cobb34528acdebba67b54dbdc)
+Check out my code [scrim Unit Converter](https://scrimba.com/scrim/co4e54510ade41a1b641a2699)
 
 Live: [https://gretali.github.io/Unit-converter](https://gretali.github.io/Unit-converter)
 
